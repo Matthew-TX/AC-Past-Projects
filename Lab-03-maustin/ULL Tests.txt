@@ -1,0 +1,26 @@
+ULL Tests
+1) add
+2) insert
+3) getSize
+4) remove
+
+DULL Tests
+1) add
+2) insert
+3) getSize
+4) remove
+
+Sorted Linked List Tests
+) getSize
+) add
+) getValue
+
+Stack 
+) push
+) pop
+) top
+
+Queue 
+) push
+) pop
+) top
